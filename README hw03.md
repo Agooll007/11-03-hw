@@ -34,4 +34,3 @@
 ![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-57-35.png)
 ![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-57-47.png)
 ![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-58-49.png)
-![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_05-07-06.png)
