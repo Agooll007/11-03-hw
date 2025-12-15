@@ -4,7 +4,7 @@
 
 Запущенный Elastic
 
-![alt-text]()`
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_03-21-37.png)
 
 ---
 
@@ -12,7 +12,7 @@
 
 Запрос GET /_cluster/health?pretty в Kibana
 
-![alt-text]()`
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_03-39-22.png)
 
 
 ---
@@ -21,8 +21,9 @@
 
 Отправка access-логов Nginx в Elasticsearch с помощью Logstash
 
-![alt-text]()`
-
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-16-22.png)
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-17-42.png)
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-58-00.png)
 
 
 ### Задание 4
@@ -30,5 +31,7 @@
 Отправка логов от filebeat напрямую в Elastic
 
 
-![alt-text]()`
-
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-57-35.png)
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-57-47.png)
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_04-58-49.png)
+![alt-text](https://github.com/Agooll007/11-03-hw/blob/main/img/2025-12-15_05-07-06.png)
